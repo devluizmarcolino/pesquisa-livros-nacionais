@@ -1,3 +1,4 @@
+**Imersão Dev com Google Gemini**
 ##  Livros Brasileiros: Sua biblioteca digital personalizada!
 
 **O que faz essa aplicação?**
@@ -37,8 +38,8 @@ Quer ajudar a melhorar este projeto? Fique à vontade para abrir um pull request
 **#livrosbrasileiros #programação #javascript #html #css #open-source**
 
 
-**[github.com/devluizmarcolino]**
+**GitHub -> https://github.com/devluizmarcolino**
 
-**[https://github.com/devluizmarcolino/pesquisa-livros-nacionais]**
+**Respositório GitHub -> https://github.com/devluizmarcolino/pesquisa-livros-nacionai)**
 
 
